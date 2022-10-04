@@ -1,8 +1,6 @@
 ## **About me**  
 My name is Paulina Gigoń. I am a master of healthcare management. 
-I graduated from the Jagiellonian University Collegium Medicum in Krakow and studies in Germany at the Bielefeld University. After 10 years, I decided to change my path. 
-I decided to start learning to become a software tester. My goal is to develop myself in this field and gain the technical skills that will allow me to become a QA. 
-On this page I want to post my little junior achievements, learning process and new testing skills. 
+I graduated from the Jagiellonian University Collegium Medicum in Krakow and studied in Germany at the Bielefeld University. After 10 years, I decided to change my professional path and started learning to become a software tester. My goal is to develop myself in this field and gain the technical skills that will allow me to become a QA. On this page I want to post my little junior achievements, learning process and new testing skills. 
 
 ## **Technical skills** 
 - SQL

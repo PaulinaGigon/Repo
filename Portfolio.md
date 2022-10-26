@@ -8,6 +8,11 @@ I graduated from the Jagiellonian University Collegium Medicum in Krakow and stu
 - Software Development Life Cycle (SDLC)
 - Basic Programming Knowledge
 - Agile Testing
+- Creating test plans and test cases
+- Creating incident reports
+- Basic knowledge of ISTQB
+- SCRUM methodology
+
 
 ## **Tools**
 - [SOAP UI](https://www.soapui.org/) - a tool that is used, among others, to test web services
@@ -18,7 +23,7 @@ I graduated from the Jagiellonian University Collegium Medicum in Krakow and stu
 - [Sublime Text](https://www.sublimetext.com/) - programmer-oriented text editor, written in C ++ and Python.
 
 ## **Certificates**
-ISTQB
+ISTQB - during
 
 ## **Courses**
 [Coders Lab](https://coderslab.pl/pl/tester-manualny) - Manual tester course
